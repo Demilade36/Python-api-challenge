@@ -1,3 +1,11 @@
+##############################
+# My Custom Settings
+##############################
+**/*config.py
+
+
+#GitHub Python .gitignore Template is Below
+##############################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
